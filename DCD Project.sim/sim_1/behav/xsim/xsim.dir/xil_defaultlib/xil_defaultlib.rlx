@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/BackupCode/vivado/DCD Project/DCD Project.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/BackupCode/vivado/DCD Project/DCD Project.srcs/sim_1/new/CPU_sim.v,1704397154,verilog,,,,Simulation,,,,,,,,
+D:/BackupCode/vivado/DCD Project/DCD Project.srcs/sources_1/new/CPU_Design.v,1704395305,verilog,,D:/BackupCode/vivado/DCD Project/DCD Project.srcs/sim_1/new/CPU_sim.v,,CLK;CPU_Design;CommandDevider;CommandOperator;Commands;Memory;setPC,,,,,,,,

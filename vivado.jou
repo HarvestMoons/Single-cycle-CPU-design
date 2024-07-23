@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Fri Jan  5 02:31:46 2024
+# Process ID: 24724
+# Current directory: D:/Code/vivado/DCD Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10256 D:\Code\vivado\DCD Project\DCD Project.xpr
+# Log file: D:/Code/vivado/DCD Project/vivado.log
+# Journal file: D:/Code/vivado/DCD Project\vivado.jou
+# Running On: CXY, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16442 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Code/vivado/DCD Project/DCD Project.xpr}
+update_compile_order -fileset sources_1
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+launch_simulation
+close_design
+launch_simulation
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+launch_simulation
+launch_simulation
+launch_simulation

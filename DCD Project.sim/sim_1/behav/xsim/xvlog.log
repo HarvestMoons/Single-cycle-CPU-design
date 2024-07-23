@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/BackupCode/vivado/DCD Project/DCD Project.srcs/sources_1/new/CPU_Design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU_Design
+INFO: [VRFC 10-311] analyzing module setPC
+INFO: [VRFC 10-311] analyzing module CLK
+INFO: [VRFC 10-311] analyzing module CommandDevider
+INFO: [VRFC 10-311] analyzing module Commands
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-311] analyzing module CommandOperator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/BackupCode/vivado/DCD Project/DCD Project.srcs/sim_1/new/CPU_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Simulation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/BackupCode/vivado/DCD Project/DCD Project.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
